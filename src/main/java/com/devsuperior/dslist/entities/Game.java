@@ -48,7 +48,7 @@ public class Game {
 
 	}
 
-	public Long GeId() {
+	public Long getId() {
 		return id;
 	}
 
